@@ -1,1 +1,1 @@
-clean emacs
+Magic file
