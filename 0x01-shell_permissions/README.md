@@ -1,1 +1,1 @@
-James Bond
+look in the mirror
