@@ -1,1 +1,1 @@
-Whats next
+Letters only
