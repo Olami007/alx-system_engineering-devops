@@ -1,1 +1,1 @@
-No more Javascript
+Confused smiley
