@@ -1,1 +1,1 @@
-Being unique
+Being unique is better
