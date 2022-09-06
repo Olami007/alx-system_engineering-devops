@@ -1,1 +1,1 @@
-Path
+Number of directories
