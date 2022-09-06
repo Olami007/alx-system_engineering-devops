@@ -1,1 +1,1 @@
-Display result
+Convert a number
